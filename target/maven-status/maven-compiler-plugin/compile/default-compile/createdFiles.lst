@@ -1,0 +1,11 @@
+org\serempre\qa\automation\TiendaCerca\task\InsertPersonalData.class
+org\serempre\qa\automation\TiendaCerca\questions\ValidateSignUpSuccessfully.class
+org\serempre\qa\automation\TiendaCerca\exceptions\UnsuccessfullSignUp.class
+org\serempre\qa\automation\TiendaCerca\utilities\BeforeSuite.class
+org\serempre\qa\automation\TiendaCerca\driver\Driver.class
+org\serempre\qa\automation\TiendaCerca\interactions\WaitElement2.class
+org\serempre\qa\automation\TiendaCerca\task\InsertInvalidPhone.class
+org\serempre\qa\automation\TiendaCerca\userinterface\SignUpOnAppUI.class
+org\serempre\qa\automation\TiendaCerca\utilities\LectorExcel.class
+org\serempre\qa\automation\TiendaCerca\interactions\WaitToLoad.class
+org\serempre\qa\automation\TiendaCerca\utilities\DataToFeature.class

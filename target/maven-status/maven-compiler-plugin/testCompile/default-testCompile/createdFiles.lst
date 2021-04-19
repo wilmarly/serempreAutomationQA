@@ -1,0 +1,5 @@
+org\serempre\qa\automation\TiendaCerca\stepdefinitions\InvalidPhoneValidationStepDefinition.class
+org\serempre\qa\automation\TiendaCerca\runners\InvalidPhoneValidationRunner.class
+org\serempre\qa\automation\TiendaCerca\runners\SignUpOnAppRunner.class
+org\serempre\qa\automation\TiendaCerca\stepdefinitions\SignUpOnAppStepDefinition.class
+org\serempre\qa\automation\TiendaCerca\runners\RunnerPersonalizado.class

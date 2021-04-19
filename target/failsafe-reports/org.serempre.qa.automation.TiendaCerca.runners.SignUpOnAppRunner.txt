@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.serempre.qa.automation.TiendaCerca.runners.SignUpOnAppRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 77.564 sec <<< FAILURE! - in org.serempre.qa.automation.TiendaCerca.runners.SignUpOnAppRunner
+Register for the application successfully(Register in the application.)  Time elapsed: 74.192 sec  <<< FAILURE!
+java.lang.AssertionError: Registro fallido, No se ha podido introducir una dirección - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of By.xpath: //*[contains(text(),'Te has registrado')] (tried for 20 second(s) with 500 milliseconds interval)
+
